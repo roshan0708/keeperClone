@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "http://roshan0708.github.io/keeperClone",
+  "homepage": "https://roshan0708.github.io/keeperClone/",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
