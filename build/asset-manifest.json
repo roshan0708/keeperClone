@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/keeperClone/static/js/main.4155493f.chunk.js",
-    "main.js.map": "/keeperClone/static/js/main.4155493f.chunk.js.map",
+    "main.js": "/keeperClone/static/js/main.f82a2f0d.chunk.js",
+    "main.js.map": "/keeperClone/static/js/main.f82a2f0d.chunk.js.map",
     "runtime-main.js": "/keeperClone/static/js/runtime-main.c9e9a624.js",
     "runtime-main.js.map": "/keeperClone/static/js/runtime-main.c9e9a624.js.map",
     "static/js/2.626dbf51.chunk.js": "/keeperClone/static/js/2.626dbf51.chunk.js",
     "static/js/2.626dbf51.chunk.js.map": "/keeperClone/static/js/2.626dbf51.chunk.js.map",
     "index.html": "/keeperClone/index.html",
-    "precache-manifest.a63c5b0bb2adb855691dd8d8c231fbda.js": "/keeperClone/precache-manifest.a63c5b0bb2adb855691dd8d8c231fbda.js",
+    "precache-manifest.e446a3772181878f9bf8a1e316525c3b.js": "/keeperClone/precache-manifest.e446a3772181878f9bf8a1e316525c3b.js",
     "service-worker.js": "/keeperClone/service-worker.js",
     "static/js/2.626dbf51.chunk.js.LICENSE.txt": "/keeperClone/static/js/2.626dbf51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9e9a624.js",
     "static/js/2.626dbf51.chunk.js",
-    "static/js/main.4155493f.chunk.js"
+    "static/js/main.f82a2f0d.chunk.js"
   ]
 }

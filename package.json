@@ -6,6 +6,8 @@
   "main": "src/index.js",
   "homepage": "https://roshan0708.github.io/keeperClone/",
   "dependencies": {
+    "@material-ui/core": "^4.9.11",
+    "@material-ui/icons": "^4.9.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "^3.4.1"
